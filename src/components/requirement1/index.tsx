@@ -16,9 +16,9 @@ const Requirement1 = () => {
           />
         </div>
         <div>
-          <p>Mã số sinh viên: 2251120143</p>
+          <p>Mã số sinh viên: 2251******</p>
           <p>Họ và tên: Võ Ngọc Duy</p>
-          <p>Liên hệ: 0399517566</p>
+          <p>Liên hệ: 0399******</p>
           <p>Trường: Đại học Giao thông vận tải TPHCM</p>
           <p>Khoa: Công nghệ thông tin</p>
           <p>Chuyên ngành: Công nghệ phần mềm</p>
