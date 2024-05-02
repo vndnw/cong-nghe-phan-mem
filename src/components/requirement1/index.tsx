@@ -12,7 +12,7 @@ const Requirement1 = () => {
             height={170}
             preview
             src="https://th.bing.com/th/id/OIP.HuRW9_7mC2HcNlRsUBQRTgHaHa?rs=1&pid=ImgDetMain"
-            alt=""
+            alt="Avatar"
           />
         </div>
         <div>
